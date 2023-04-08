@@ -1183,3 +1183,16 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+p {
+  padding-top: 30px;
+  text-align: left;
+  font-size: 60px;
+  margin-top: 0px;
+  font-family: "Raleway", sans-serif;
+}
+
+#header.header-top .demo,
+#header.header-top h2 {
+  display: none;
+}
